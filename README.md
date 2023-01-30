@@ -1,6 +1,6 @@
 ### oii! eu sou o Hebert Spitzer
 * 👨‍💻full-stack atuando com desenvolvimento web | Angular | JavaScript | Node | TypeScript
-* 💻Cursando análise e desenvolvimento de sistema
+* 💻Cursando o 3° Semestre de análise e desenvolvimento de sistema na Unip - Alphaville
 <div>
   <a href="https://github.com/hebertspitzer">
   <img height="200em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebertspitzer&layout=compact&langs_count=7&theme=dark"/>
