@@ -1,5 +1,5 @@
 ### oii! eu sou o Hebert Spitzer
-* 👨‍💻atualmente não estou trabalhando
+* 👨‍💻full-stack atuando com desenvolvimento web | Angular | JavaScript | Node | TypeScript
 * 💻Cursando análise e desenvolvimento de sistema
 <div>
   <a href="https://github.com/hebertspitzer">
