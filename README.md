@@ -1,5 +1,5 @@
 ### oii! eu sou o Hebert Spitzer
-* 👨‍💻full-stack atuando com desenvolvimento web | Angular | JavaScript | Node | TypeScript
+* 👨‍💻Atuelmente trabalho como QA
 * 💻Cursando o 3° Semestre de análise e desenvolvimento de sistema na Unip - Alphaville
 <div>
   <a href="https://github.com/hebertspitzer">
