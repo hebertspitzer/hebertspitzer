@@ -1,6 +1,6 @@
 ### oii! eu sou o Hebert Spitzer
-* 👨‍💻Atuelmente trabalho como QA
-* 💻Cursando o 3° Semestre de análise e desenvolvimento de sistema
+* 👨‍💻Atuelmente trabalho como Desenvolvedor Suporte
+* 💻Cursando o análise e desenvolvimento de sistema
 <div>
   <a href="https://github.com/hebertspitzer">
   <img height="200em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebertspitzer&layout=compact&langs_count=7&theme=dark"/>
