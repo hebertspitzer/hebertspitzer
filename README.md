@@ -1,5 +1,5 @@
 ### oii! eu sou o Hebert Spitzer
-* 👨‍💻Atuelmente trabalho como Desenvolvedor Suporte
+* 👨‍💻Atualmente trabalho como Desenvolvedor Suporte
 * 💻Cursando o análise e desenvolvimento de sistema
 <div>
   <a href="https://github.com/hebertspitzer">
