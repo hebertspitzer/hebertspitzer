@@ -1,5 +1,5 @@
 ### oii! eu sou o Hebert Spitzer
-* 👨‍💻Atualmente trabalho como Desenvolvedor Suporte
+* 👨‍💻Atualmente trabalho como Desenvolvedor utilizando C#, JS, Dynamics 365
 * 💻Formado em análise e desenvolvimento de sistema
 <div>
   <a href="https://github.com/hebertspitzer">
